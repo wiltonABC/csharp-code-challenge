@@ -1,3 +1,5 @@
+<img width="1440" alt="Note taking app screenshot" src="https://user-images.githubusercontent.com/10522495/62434988-f4724500-b710-11e9-9326-8b8c48d3df0d.jpg">
+
 # C# Code Challenge
 A Simple console app made for a VanHack C# code challenge. 
 
